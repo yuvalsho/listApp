@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
     color: Colors.black,
   },
   sectionDescription: {
-    marginTop: 8,
+    marginTop: 9,
     fontSize: 18,
     fontWeight: '400',
     color: Colors.dark,
